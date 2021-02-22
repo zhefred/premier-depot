@@ -1,2 +1,4 @@
+fichier à supprimer
 sera enlevé de l'index
 Modification de test.txt dans la branch2
+allo
